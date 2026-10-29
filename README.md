@@ -1,7 +1,7 @@
 # Anenji Inverter Bridge
 
 This custom Home Assistant integration connects a SmartESS Wi-Fi stick to a
-local TCP bridge on Home Assistant, reads inverter values from Modbus registers,
+local TCP bridge running on Home Assistant, reads inverter values from Modbus registers,
 and publishes them to an MQTT broker. It uses MQTT Discovery to create sensors
 in Home Assistant.
 
