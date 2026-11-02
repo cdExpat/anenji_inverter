@@ -24,8 +24,6 @@ credentials.
 
 ## Installation with HACS
 
-After this repository is public on GitHub:
-
 1. In Home Assistant, open **HACS → Integrations**.
 2. Open the HACS menu and choose **Custom repositories**.
 3. Add `https://github.com/cdExpat/anenji_inverter` with category **Integration**.
